@@ -1,0 +1,2 @@
+Esporte = input('Qual é o seu esporte favorito? ')
+print(f'seu esporte favorito é {Esporte}!')
